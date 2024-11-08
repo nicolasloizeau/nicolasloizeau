@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there I'm Nicolas 👋
+I'm a postdoc researcher at Niels Bohr Institute, Copenhagen, working on many body quantum physics.
+
+Currently developing [PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl) .
+
+Maintaining [CitationTree.org](https://www.citationtree.org) .
 
 <!--
 **nicolasloizeau/nicolasloizeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
