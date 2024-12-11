@@ -5,6 +5,10 @@ Currently developing [PauliStrings.jl](https://github.com/nicolasloizeau/PauliSt
 
 Maintaining [CitationTree.org](https://www.citationtree.org) .
 
+*What I cannot create, I do not understand*, Feynman
+
+*Science is what we understand well enough to explain to a computer; art is everything else*, Knuth
+
 <!--
 **nicolasloizeau/nicolasloizeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
