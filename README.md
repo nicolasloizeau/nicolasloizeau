@@ -9,4 +9,4 @@ Maintaining [CitationTree.org](https://www.citationtree.org) .
 
 *Science is what we understand well enough to explain to a computer; art is everything else*, Knuth
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicolasloizeau&show_icons=true&theme=transparent" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasloizeau&show_icons=true&theme=transparent&layout=compact&hide=Tex,CSS,SCSS,HTML" alt="github languages" width="45%"/>
