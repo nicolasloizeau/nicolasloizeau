@@ -5,6 +5,8 @@ Currently developing [PauliStrings.jl](https://github.com/nicolasloizeau/PauliSt
 
 Maintaining [CitationTree.org](https://www.citationtree.org) .
 
+Email: nicolas.loizeau@nbi.ku.dk
+
 *What I cannot create, I do not understand*, Feynman
 
 *Science is what we understand well enough to explain to a computer; art is everything else*, Knuth
