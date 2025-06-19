@@ -1,5 +1,5 @@
 ## Hi there I'm Nicolas 👋
-I'm a postdoc researcher at Niels Bohr Institute, Copenhagen, working on many body quantum physics.
+I'm a postdoc researcher at the Niels Bohr Institute, Copenhagen, working on many body quantum physics.
 
 Currently developing [PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl) .
 
