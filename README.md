@@ -3,7 +3,7 @@ I'm a postdoc researcher at the Niels Bohr Institute, Copenhagen, working on man
 
 Currently developing [PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl) .
 
-Maintaining [CitationTree.org](https://www.citationtree.org) .
+Maintaining [CitationTree.org](https://www.citationtree.org) and [CitationGraph.org](https://www.citationgraph.org).
 
 Email: nicolas.loizeau@nbi.ku.dk
 
