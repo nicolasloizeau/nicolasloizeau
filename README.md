@@ -12,5 +12,5 @@ Email: nicolas.loizeau@nbi.ku.dk
 *Science is what we understand well enough to explain to a computer; art is everything else*, Knuth
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasloizeau&&hide=M4&layout=compact )
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasloizeau&&hide=M4,Jupyter+Notebook&layout=compact )
 
